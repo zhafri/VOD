@@ -116,5 +116,63 @@
 	  "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Sleeping.Dogs.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
   },
   
+  {
+    "name": "",
+    "category": "2024",
+    "info": {
+		 "poster": "",
+		"bg": "",
+		"plot": "",
+		"backdrop": "",
+		"cast": [ ],
+		"director": [ "" ],
+		"country": [ "United States" ],
+		"year": "2024",
+	     "trailer": ""
+            },
+	  "video": ""
+  },
+  
+  {
+    "name": "Dark Matter",
+    "category": "Series",
+    "info": 
+		{
+			"poster": "https://m.media-amazon.com/images/M/MV5BZTYzNGIzNDItMjQ5Yy00NmNiLWI4YTQtNzVjYzBjZDEzNDdjXkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
+			"bg": "",
+			"plot": "A physicist in Chicago is warped into an alternate version of his life, leaving him to fight to return to his life to prevent the alternate version of himself from harming his family.",
+			"backdrop": "",
+			"cast": 
+					[ 
+						"Joel Edgerton",
+						"Jennifer Connelly",
+						"Alice Braga",
+						"Jimmi Simpson",
+						"Dayo Okeniyi",
+						"Oakes Fegley"
+					],
+			"director": [ "Jakob Verbruggen" ],
+			"country": [ "United States" ],
+			"year": "2024",
+			"trailer": "j6ucGt_Xp14"
+        },
+	"seasons": 
+	[
+		{
+			"season":"1",
+				"episodes": 
+					[
+						{
+						"episode": "1",
+						"name" : "Are You Happy in Your Life?",
+						"video" : "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+						}
+					]
+		}
+	],
+	  
+	}
+	
 
+	},
 ]
