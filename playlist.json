@@ -117,31 +117,14 @@
   },
   
   {
-    "name": "",
-    "category": "2024",
-    "info": {
-		 "poster": "",
-		"bg": "",
-		"plot": "",
-		"backdrop": "",
-		"cast": [ ],
-		"director": [ "" ],
-		"country": [ "United States" ],
-		"year": "2024",
-	     "trailer": ""
-            },
-	  "video": ""
-  },
-  
-  {
     "name": "Dark Matter",
     "category": "Series",
     "info": 
 		{
 			"poster": "https://m.media-amazon.com/images/M/MV5BZTYzNGIzNDItMjQ5Yy00NmNiLWI4YTQtNzVjYzBjZDEzNDdjXkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
-			"bg": "",
+			"bg": "https://www.apple.com/tv-pr/articles/2024/04/apple-tv-debuts-trailer-for-dark-matter-starring-joel-edgerton-and-jennifer-connelly/images/big-image/big-image-01/041124_Apple_Debuts_Trailer_Dark_Matter_Big_Image_01_big_image_post.jpg.large.jpg",
 			"plot": "A physicist in Chicago is warped into an alternate version of his life, leaving him to fight to return to his life to prevent the alternate version of himself from harming his family.",
-			"backdrop": "",
+			"backdrop": "https://www.apple.com/tv-pr/articles/2024/04/apple-tv-debuts-trailer-for-dark-matter-starring-joel-edgerton-and-jennifer-connelly/images/big-image/big-image-01/041124_Apple_Debuts_Trailer_Dark_Matter_Big_Image_01_big_image_post.jpg.large.jpg",
 			"cast": 
 					[ 
 						"Joel Edgerton",
@@ -171,8 +154,6 @@
 		}
 	],
 	  
-	}
+}
 	
-
-	},
 ]
