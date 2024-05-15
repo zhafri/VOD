@@ -147,7 +147,7 @@
             "episodes": 
 		[
                 	{
-                 	"episode": "Episode 1",
+                 	"episode": 1,
                  	"name": "Are You Happy in Your Life?",
 			"info" :
 				{
@@ -157,7 +157,7 @@
 			},
 					 
 			{
-		  	"episode": "Episode 2",
+		  	"episode": 2,
                 	"name": "Trip of a Lifetime",
 			"info" :
 				{
@@ -167,7 +167,7 @@
 			},
 					
 			{
-			"episode": "Episode 3",
+			"episode": 3,
                     	"name": "The Box",
 			"info" :
 				{
