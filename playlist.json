@@ -1,7 +1,7 @@
 [
   {
     "name": "Ghostbusters:Frozen Empire",
-    "category": "Action",
+    "category": "2024",
     "info": {
 		 "poster": "https://m.media-amazon.com/images/M/MV5BNGIyMDllMGUtYmI5Zi00NmE4LWEwZjktYmJjZDg0ZWE5MjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
 		"bg": "https://assets-in.bmscdn.com/discovery-catalog/events/et00380545-kpgdcylwup-landscape.jpg",
@@ -10,9 +10,36 @@
 		"director": [ "Gil Kenan" ],
 		"country": [ "United States" ],
 		"year": "2024",
-	        "trailer": "HpOBXh02rVc"
+	     "trailer": "HpOBXh02rVc"
             },
 	  "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Ghostbusters.Frozen.Empire.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
   },
-	
+
+{
+    "name": "Dune Part Two",
+    "category": "2024",
+    "info": {
+		 "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+		"bg": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2024/03/05123041/feature-2024-03-04t144939-991-1600x900.jpeg",
+		"plot": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset.",
+		"cast": [ 
+					"Timothée Chalamet",
+					"Zendaya",
+					"Rebecca Ferguson",
+					"Josh Brolin",
+					"Austin Butler",
+					"Florence Pugh",
+					"Dave Bautista",
+					"Christopher Walken",
+					"Léa Seydoux",
+					"Stellan Skarsgård",
+					"Charlotte Rampling",
+					"Javier Bardem" ],
+		"director": [ "Denis Villeneuve" ],
+		"country": [ "United States" ],
+		"year": "2024",
+	     "trailer": "Way9Dexny3w"
+            },
+	  "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dune_Part_Two_2024_AMZN_WEBRip_SDR_10Bit_1440p_DDP5.1_Atmos_HEVC-3Li.mkv"
+  },
 ]
