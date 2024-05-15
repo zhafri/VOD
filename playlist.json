@@ -143,24 +143,36 @@
     "seasons": 
 [
         {
-            "season": 1,
+            "season": "Season 1",
             "episodes": 
 		[
                 	{
-                 	"episode": 1,
+                 	"episode": "Episode 1",
                  	"name": "Are You Happy in Your Life?",
+			"info" :
+				{
+					"plot":""
+				}, 
                  	"video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
 			},
 					 
 			{
-		  	"episode": 2,
+		  	"episode": "Episode 2",
                 	"name": "Trip of a Lifetime",
+			"info" :
+				{
+					"plot":"Jason wakes to a life that makes no sense - he doesn't have a family and he's created something extraordinary."
+				},
                     	"video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E02_Trip_of_a_Lifetime_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
 			},
 					
 			{
-			"episode": 3,
+			"episode": "Episode 3",
                     	"name": "The Box",
+			"info" :
+				{
+					"plot":"Leighton and Amanda show Jason his groundbreaking invention. Daniela and Jason2 throw a dinner party."
+				},
                     	"video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E03_The_Box_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
 			}
 		]
