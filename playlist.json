@@ -141,33 +141,32 @@
 			"trailer": "j6ucGt_Xp14" 
 		},
     "seasons": 
-	[
+[
         {
             "season": 1,
             "episodes": 
-			[
-                {
-                 "episode": 1,
-                 "name": "Are You Happy in Your Life?",
-                 "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-				},
+		[
+                	{
+                 	"episode": 1,
+                 	"name": "Are You Happy in Your Life?",
+                 	"video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+			},
 					 
-				{
-					"episode": 2,
-                    "name": "Trip of a Lifetime",
-                    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E02_Trip_of_a_Lifetime_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-				},
+			{
+		  	"episode": 2,
+                	"name": "Trip of a Lifetime",
+                    	"video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E02_Trip_of_a_Lifetime_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+			},
 					
-				{
-					"episode": 3,
-                    "name": "The Box",
-                    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E03_The_Box_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-				}
-					
-                
-            ]
+			{
+			"episode": 3,
+                    	"name": "The Box",
+                    	"video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E03_The_Box_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+			}
+		]
         }
-    ]
-}
-	
+]
+ 
+ }
+
 ]
