@@ -1,258 +1,431 @@
 [
-    {
-        "name": "Ghostbusters:Frozen Empire",
-        "category": "2024",
-        "info": {
-            "poster": "https://m.media-amazon.com/images/M/MV5BNGIyMDllMGUtYmI5Zi00NmE4LWEwZjktYmJjZDg0ZWE5MjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-            "bg": "https://assets-in.bmscdn.com/discovery-catalog/events/et00380545-kpgdcylwup-landscape.jpg",
-            "plot": "In Ghostbusters: Frozen Empire, the Spengler family returns to where it all started -- the iconic New York City firehouse -- to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level.",
-            "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/qPwA2tXV8fGXfOVYu3aIgctzqtB.jpg",
-            "cast": [
-                "Paul Rudd",
-                "Carrie Coon",
-                "Finn Wolfhard",
-                "Mckenna Grace",
-                "Bill Murray"
-            ],
-            "director": [
-                "Gil Kenan"
-            ],
-            "country": [
-                "United States"
-            ],
-            "year": "2024",
-            "trailer": "HpOBXh02rVc"
-        },
-        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Ghostbusters.Frozen.Empire.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
+  {
+    "name": "Ghostbusters:Frozen Empire",
+    "category": "2024",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGIyMDllMGUtYmI5Zi00NmE4LWEwZjktYmJjZDg0ZWE5MjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "bg": "https://assets-in.bmscdn.com/discovery-catalog/events/et00380545-kpgdcylwup-landscape.jpg",
+      "plot": "In Ghostbusters: Frozen Empire, the Spengler family returns to where it all started -- the iconic New York City firehouse -- to team up with the original Ghostbusters, who've developed a top-secret research lab to take busting ghosts to the next level.",
+      "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/qPwA2tXV8fGXfOVYu3aIgctzqtB.jpg",
+      "cast": [
+        "Paul Rudd",
+        "Carrie Coon",
+        "Finn Wolfhard",
+        "Mckenna Grace",
+        "Bill Murray"
+      ],
+      "director": [
+        "Gil Kenan"
+      ],
+      "country": [
+        "United States"
+      ],
+      "year": "2024",
+      "trailer": "HpOBXh02rVc"
     },
-    {
-        "name": "Dune Part Two",
-        "category": "2024",
-        "info": {
-            "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
-            "bg": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2024/03/05123041/feature-2024-03-04t144939-991-1600x900.jpeg",
-            "plot": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-            "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/z1AR7CJC80k4pw00URV9AVVgfjf.jpg",
-            "cast": [
-                "Timothée Chalamet",
-                "Zendaya",
-                "Rebecca Ferguson",
-                "Josh Brolin",
-                "Austin Butler",
-                "Florence Pugh",
-                "Dave Bautista",
-                "Christopher Walken",
-                "Léa Seydoux",
-                "Stellan Skarsgård",
-                "Charlotte Rampling",
-                "Javier Bardem"
-            ],
-            "director": [
-                "Denis Villeneuve"
-            ],
-            "country": [
-                "United States"
-            ],
-            "year": "2024",
-            "trailer": "Way9Dexny3w"
-        },
-        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dune_Part_Two_2024_AMZN_WEBRip_SDR_10Bit_1440p_DDP5.1_Atmos_HEVC-3Li.mkv"
+    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Ghostbusters.Frozen.Empire.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
+  },
+  {
+    "name": "Dune Part Two",
+    "category": "2024",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+      "bg": "https://images.travelandleisureasia.com/wp-content/uploads/sites/3/2024/03/05123041/feature-2024-03-04t144939-991-1600x900.jpeg",
+      "plot": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/z1AR7CJC80k4pw00URV9AVVgfjf.jpg",
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson",
+        "Josh Brolin",
+        "Austin Butler",
+        "Florence Pugh",
+        "Dave Bautista",
+        "Christopher Walken",
+        "Léa Seydoux",
+        "Stellan Skarsgård",
+        "Charlotte Rampling",
+        "Javier Bardem"
+      ],
+      "director": [
+        "Denis Villeneuve"
+      ],
+      "country": [
+        "United States"
+      ],
+      "year": "2024",
+      "trailer": "Way9Dexny3w"
     },
-    {
-        "name": "The Ministry of Ungentlemanly Warfare",
-        "category": "2024",
-        "info": {
-            "poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg",
-            "bg": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/the-ministry-of-ungentlemanly-warfare-movie-review-2024/ministryofungentlemanlywarfare.jpg",
-            "plot": "Taking place during World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British World War II organization; the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
-            "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/hm21I7yc6oYBogTloET3eXsVPlq.jpg",
-            "cast": [
-                "Henry Cavill",
-                "Eiza González",
-                "Alan Ritchson",
-                "Alex Pettyfer",
-                "Hero Fiennes Tiffin",
-                "Babs Olusanmokun",
-                "Henry Golding",
-                "Cary Elwes"
-            ],
-            "director": [
-                "Guy Ritchie"
-            ],
-            "country": [
-                "United States"
-            ],
-            "year": "2024",
-            "trailer": "zvwDen1Wrx8"
-        },
-        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/The.Ministry.of.Ungentlemanly.Warfare.2024.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.mkv"
+    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dune_Part_Two_2024_AMZN_WEBRip_SDR_10Bit_1440p_DDP5.1_Atmos_HEVC-3Li.mkv"
+  },
+  {
+    "name": "The Ministry of Ungentlemanly Warfare",
+    "category": "2024",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg",
+      "bg": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/the-ministry-of-ungentlemanly-warfare-movie-review-2024/ministryofungentlemanlywarfare.jpg",
+      "plot": "Taking place during World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British World War II organization; the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+      "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/hm21I7yc6oYBogTloET3eXsVPlq.jpg",
+      "cast": [
+        "Henry Cavill",
+        "Eiza González",
+        "Alan Ritchson",
+        "Alex Pettyfer",
+        "Hero Fiennes Tiffin",
+        "Babs Olusanmokun",
+        "Henry Golding",
+        "Cary Elwes"
+      ],
+      "director": [
+        "Guy Ritchie"
+      ],
+      "country": [
+        "United States"
+      ],
+      "year": "2024",
+      "trailer": "zvwDen1Wrx8"
     },
-    {
-        "name": "Godzilla x Kong: The New Empire",
-        "category": "2024",
-        "info": {
-            "poster": "https://m.media-amazon.com/images/M/MV5BMWI2ZmE0MmYtM2ZmZS00OWY1LTg1YzctODczZGIzNDQwZDM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-            "bg": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/02/new-mp.png",
-            "plot": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
-            "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/C0OZH0EAxd555TauZ1EbNsrpzl.jpg",
-            "cast": [
-                "Rebecca Hall",
-                "Brian Tyree Henry",
-                "Dan Stevens",
-                "Kaylee Hottle",
-                "Alex Ferns",
-                "Fala Chen"
-            ],
-            "director": [
-                "Adam Wingard"
-            ],
-            "country": [
-                "United States"
-            ],
-            "year": "2024",
-            "trailer": "lV1OOlGwExM"
-        },
-        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Godzilla.x.Kong.The.New.Empire.2024.REPACK2.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
+    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/The.Ministry.of.Ungentlemanly.Warfare.2024.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.mkv"
+  },
+  {
+    "name": "Godzilla x Kong: The New Empire",
+    "category": "2024",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWI2ZmE0MmYtM2ZmZS00OWY1LTg1YzctODczZGIzNDQwZDM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+      "bg": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/02/new-mp.png",
+      "plot": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/C0OZH0EAxd555TauZ1EbNsrpzl.jpg",
+      "cast": [
+        "Rebecca Hall",
+        "Brian Tyree Henry",
+        "Dan Stevens",
+        "Kaylee Hottle",
+        "Alex Ferns",
+        "Fala Chen"
+      ],
+      "director": [
+        "Adam Wingard"
+      ],
+      "country": [
+        "United States"
+      ],
+      "year": "2024",
+      "trailer": "lV1OOlGwExM"
     },
-    {
-        "name": "Sleeping Dogs",
-        "category": "2024",
-        "info": {
-            "poster": "https://m.media-amazon.com/images/M/MV5BNTg4NTY3ZmMtZGZhMC00NWYxLThjYmEtZGJhYjE1N2Y2YmZkXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_.jpg",
-            "bg": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/8/2/1397882_hfgsleepingdogsfirstlookphotocreditsarahenticknap1_766756.jpg",
-            "plot": "Roy Freeman, an ex-homicide detective with a fractured memory, is forced to revisit a case he can't remember. As a man's life hangs in the balance on death row, Freeman must piece together the brutal evidence from a decade-old murder investigation, uncovering a sinister web of buried secrets and betrayals linking to his past. With only instincts to trust, he faces a chilling truth - sometimes, it's best to let sleeping dogs lie.",
-            "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/z4kejmJC80ghWDzt1hPcHkY8JuK.jpg",
-            "cast": [
-                "Russell Crowe",
-                "Karen Gillan",
-                "Marton Csokas",
-                "Thomas M. Wright",
-                "Harry Greenwood",
-                "Tommy Flanagan"
-            ],
-            "director": [
-                "Adam Cooper"
-            ],
-            "country": [
-                "United States"
-            ],
-            "year": "2024",
-            "trailer": "jlm1zyy8whg"
-        },
-        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Sleeping.Dogs.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
+    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Godzilla.x.Kong.The.New.Empire.2024.REPACK2.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
+  },
+  {
+    "name": "Sleeping Dogs",
+    "category": "2024",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTg4NTY3ZmMtZGZhMC00NWYxLThjYmEtZGJhYjE1N2Y2YmZkXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_.jpg",
+      "bg": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/8/8/2/1397882_hfgsleepingdogsfirstlookphotocreditsarahenticknap1_766756.jpg",
+      "plot": "Roy Freeman, an ex-homicide detective with a fractured memory, is forced to revisit a case he can't remember. As a man's life hangs in the balance on death row, Freeman must piece together the brutal evidence from a decade-old murder investigation, uncovering a sinister web of buried secrets and betrayals linking to his past. With only instincts to trust, he faces a chilling truth - sometimes, it's best to let sleeping dogs lie.",
+      "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/z4kejmJC80ghWDzt1hPcHkY8JuK.jpg",
+      "cast": [
+        "Russell Crowe",
+        "Karen Gillan",
+        "Marton Csokas",
+        "Thomas M. Wright",
+        "Harry Greenwood",
+        "Tommy Flanagan"
+      ],
+      "director": [
+        "Adam Cooper"
+      ],
+      "country": [
+        "United States"
+      ],
+      "year": "2024",
+      "trailer": "jlm1zyy8whg"
     },
-    {
-        "name": "Dark Matter",
-        "category": "Series",
-        "info": {
-            "poster": "https://m.media-amazon.com/images/M/MV5BZTYzNGIzNDItMjQ5Yy00NmNiLWI4YTQtNzVjYzBjZDEzNDdjXkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
-            "bg": "https://www.apple.com/tv-pr/articles/2024/04/apple-tv-debuts-trailer-for-dark-matter-starring-joel-edgerton-and-jennifer-connelly/images/big-image/big-image-01/041124_Apple_Debuts_Trailer_Dark_Matter_Big_Image_01_big_image_post.jpg.large.jpg",
-            "plot": "A physicist in Chicago is warped into an alternate version of his life, leaving him to fight to return to his life to prevent the alternate version of himself from harming his family.",
-            "backdrop": "https://www.apple.com/tv-pr/articles/2024/04/apple-tv-debuts-trailer-for-dark-matter-starring-joel-edgerton-and-jennifer-connelly/images/big-image/big-image-01/041124_Apple_Debuts_Trailer_Dark_Matter_Big_Image_01_big_image_post.jpg.large.jpg",
-            "cast": [
-                "Joel Edgerton",
-                "Jennifer Connelly",
-                "Alice Braga",
-                "Jimmi Simpson",
-                "Dayo Okeniyi",
-                "Oakes Fegley"
-            ],
-            "director": [
-                "Jakob Verbruggen"
-            ],
-            "country": [
-                "United States"
-            ],
-            "year": "2024",
-            "trailer": "j6ucGt_Xp14"
-        },
-        "seasons": [
-            {
-                "season": 1,
-                "episodes": [
-                    {
-                        "episode": 1,
-                        "name": "Are You Happy in Your Life?",
-                        "info": {
-                            "plot": "Physics professor and family man Jason Dessen is abducted from everything he loves.",
-                            "backdrop":"https://image.tmdb.org/t/p/original/3e4BWgbMXr8LQtFzuOrnLEQgeHH.jpg"
-                        },
-                        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-                    },
-                    {
-                        "episode": 2,
-                        "name": "Trip of a Lifetime",
-                        "info": {
-                            "plot": "Jason wakes to a life that makes no sense - he doesn't have a family and he's created something extraordinary.",
-                            "backdrop":"https://image.tmdb.org/t/p/original/tGDNcydJxlu448Mc5Qkdmw2NzWz.jpg"
-                        },
-                        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E02_Trip_of_a_Lifetime_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-                    },
-                    {
-                        "episode": 3,
-                        "name": "The Box",
-                        "info": {
-                            "plot": "Leighton and Amanda show Jason his groundbreaking invention. Daniela and Jason2 throw a dinner party.",
-                            "backdrop":"https://media.themoviedb.org/t/p/w500_and_h282_face/ovSSE8DjAWsVlI3uBTluRZPiYu3.jpg"
-                        },
-                        "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E03_The_Box_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-                    },
-                    {
-                        "episode": 4,
-                        "name": "The Corridor",
-                        "info": {
-                            "plot": "Jason and Amanda fight to stay alive in the dangerous Corridor. Jason2 makes some life changes and visits an old friend.",
-                            "backdrop":"https://media.themoviedb.org/t/p/w500_and_h282_face/1HPXVsf4VVLOLGT7J768LKsmI4a.jpg"
-                        },
-                        "video": ""
-                    },
-                    {
-                        "episode": 5,
-                        "name": "Worldless",
-                        "info": {
-                            "plot": "",
-                            "backdrop":""
-                        },
-                        "video": ""
-                    },
-                     {
-                        "episode": 6,
-                        "name": "Superposition",
-                        "info": {
-                            "plot": "",
-                            "backdrop":""
-                        },
-                        "video": ""
-                    },
-                     {
-                        "episode": 7,
-                       "name": "In the Fires of Dead Stars",
-                        "info": {
-                            "plot": "",
-                            "backdrop":""
-                        },
-                        "video": ""
-                    },
-                     {
-                        "episode": 8,
-                        "name": "Jupiter",
-                        "info": {
-                            "plot": "",
-                            "backdrop":""
-                        },
-                        "video": ""
-                    },
-                     {
-                        "episode": 9,
-                        "name": "Entanglement",
-                        "info": {
-                            "plot": "",
-                            "backdrop":""
-                        },
-                        "video": ""
-                    }
-                ]
-            }
+    "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Sleeping.Dogs.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv"
+  },
+  {
+    "name": "Dark Matter",
+    "category": "Series",
+    "info": {
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTYzNGIzNDItMjQ5Yy00NmNiLWI4YTQtNzVjYzBjZDEzNDdjXkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
+      "bg": "https://www.apple.com/tv-pr/articles/2024/04/apple-tv-debuts-trailer-for-dark-matter-starring-joel-edgerton-and-jennifer-connelly/images/big-image/big-image-01/041124_Apple_Debuts_Trailer_Dark_Matter_Big_Image_01_big_image_post.jpg.large.jpg",
+      "plot": "A physicist in Chicago is warped into an alternate version of his life, leaving him to fight to return to his life to prevent the alternate version of himself from harming his family.",
+      "backdrop": "https://www.apple.com/tv-pr/articles/2024/04/apple-tv-debuts-trailer-for-dark-matter-starring-joel-edgerton-and-jennifer-connelly/images/big-image/big-image-01/041124_Apple_Debuts_Trailer_Dark_Matter_Big_Image_01_big_image_post.jpg.large.jpg",
+      "cast": [
+        "Joel Edgerton",
+        "Jennifer Connelly",
+        "Alice Braga",
+        "Jimmi Simpson",
+        "Dayo Okeniyi",
+        "Oakes Fegley"
+      ],
+      "director": [
+        "Jakob Verbruggen"
+      ],
+      "country": [
+        "United States"
+      ],
+      "year": "2024",
+      "trailer": "j6ucGt_Xp14"
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Are You Happy in Your Life?",
+            "info": {
+              "plot": "Physics professor and family man Jason Dessen is abducted from everything he loves.",
+              "backdrop": "https://image.tmdb.org/t/p/original/3e4BWgbMXr8LQtFzuOrnLEQgeHH.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+          },
+          {
+            "episode": 2,
+            "name": "Trip of a Lifetime",
+            "info": {
+              "plot": "Jason wakes to a life that makes no sense - he doesn't have a family and he's created something extraordinary.",
+              "backdrop": "https://image.tmdb.org/t/p/original/tGDNcydJxlu448Mc5Qkdmw2NzWz.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E02_Trip_of_a_Lifetime_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+          },
+          {
+            "episode": 3,
+            "name": "The Box",
+            "info": {
+              "plot": "Leighton and Amanda show Jason his groundbreaking invention. Daniela and Jason2 throw a dinner party.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/ovSSE8DjAWsVlI3uBTluRZPiYu3.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E03_The_Box_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
+          },
+          {
+            "episode": 4,
+            "name": "The Corridor",
+            "info": {
+              "plot": "Jason and Amanda fight to stay alive in the dangerous Corridor. Jason2 makes some life changes and visits an old friend.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/1HPXVsf4VVLOLGT7J768LKsmI4a.jpg"
+            },
+            "video": ""
+          },
+          {
+            "episode": 5,
+            "name": "Worldless",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 6,
+            "name": "Superposition",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 7,
+            "name": "In the Fires of Dead Stars",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 8,
+            "name": "Jupiter",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 9,
+            "name": "Entanglement",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          }
         ]
-    }
+      }
+    ]
+  },
+  {
+    "name": "Lovely Runner",
+    "category": "Korean Series",
+    "info": {
+      "poster": "https://media.themoviedb.org/t/p/w220_and_h330_face/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
+      "bg": "https://media.themoviedb.org/t/p/w500_and_h282_face/3uFUJPKW3ee8x0F1g5bOD6MapTc.jpg",
+      "plot": "The story of Ryu Sun-jae, a top star who sadly ends his life, and his romance with Im Sol who goes back to save him.",
+      "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/3uFUJPKW3ee8x0F1g5bOD6MapTc.jpg",
+      "cast": [
+        "Byeon Woo-seok",
+        "Kim Hye-yoon"
+      ],
+      "director": [
+        "Yoon Jong-ho",
+        "Kim Tae-yeop"
+      ],
+      "country": [
+        "South Korea"
+      ],
+      "year": "2024",
+      "trailer": "5kk0dYa8Ccc"
+    },
+    "seasons": [
+      {
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Live Another Day",
+            "info": {
+              "plot": "Sol had gotten into an accident and had no will to live a life. However, a phone call from Sun-jae, the vocalist of the group Eclipse, gave her hope and comfort. Since that day, she has become Sun-jae's fan. Years have passed, and Sol goes to Sun-jae's concert. But a few hours later, Sun-jae is found dead. And then, Sol goes back to 2008, when Sun-jae was still alive.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/sNTjXgtXQkhZxZkM6tQUj7I1zrv.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E01.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 2,
+            "name": "I Want to Protect You",
+            "info": {
+              "plot": "Sol is confused about the situation, but one thing she knows is that she must save Sun-jae. She finds out that she can't directly explain the future. To save Sun-jae, she decides to become friends with him, but it's not easy to become friends. Meanwhile, Tae-sung is curious about Sol who changed all of a sudden. And Sun-jae is also bothered by Sol who appeared in front of him from nowhere.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/4zrwqFzarGVwNwNNuAn7kGrmJSp.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E02.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 3,
+            "name": "It’s All About the Timing",
+            "info": {
+              "plot": "Sun-jae wins the gold medal at the competition, and he decides to confess his feelings for Sol. But due to unexpected events, it’s not as easy as it seemed. Sol thinks that she has changed the future, but Sun Jae gets hurt during practice. Sun-jae decides to quit swimming, and it makes Sol heartbroken. Sol tries to comfort Sun-jae, and Sun-jae finally confesses his feelings for her.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/A3Rc86qyOPcLXvbSn9LUOYa0o5F.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E03.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 4,
+            "name": "I’m Back",
+            "info": {
+              "plot": "Sol is back in 2023. She couldn’t save Sun-jae, but she found out that she did make some changes in the past. She manages to go back in time again, but things have turned out strangely while she was gone. Sol is officially dating Tae-sung, and Sun-jae feels confused and betrayed about Sol. He wants to keep a distance from Sol, but Sol keeps showing up. Meanwhile, Sol gets lost on her way home.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/8G53KbawSwwVXC5tS3aY08U7syK.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E04.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 5,
+            "name": "Sun-jae Sings",
+            "info": {
+              "plot": "Sun Jae saves Sol just in time. Sol realizes how precious her life is and tries not to miss out on many things. Tae Seong feels jealous of Sun Jae who seems close to Sol. Meanwhile, the vocalist of Tae Seong's band can't come to the band contest, and Sun Jae sings for the band. Sun Jae gives the prize to Sol as a gift, but Sol is upset because he sang in a band which she wanted to prevent from happening.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/8Evs8Z17TYmy4KbZCI1E4vpy8rp.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E05.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 6,
+            "name": "I Liked It That Day",
+            "info": {
+              "plot": "Sol breaks up with Tae-sung, thinking he only dated her to avoid the girl who likes him. Sun-jae tries to be cool with Sol so he can win her heart, but it’s not easy for him to hide his feelings. Sol tries to avoid her accident that will happen to her in the future. Meanwhile, Tae-sung gets in an accident and gets hospitalized. At the hospital, he runs into someone unexpected.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/r84MVXfuv9lrWNlPboap6BmHZBQ.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E06.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 7,
+            "name": "Thank You for Being Alive",
+            "info": {
+              "plot": "Sol manages to escape from the kidnapper, and Sun-jae saves him. At that moment, Sol is back in 2023. She is relieved to know that Sun-jae is safe as well, but a lot of things have changed. Her legs are fine, and she works at a film production company. Hyun-joo and Geum are married and having another baby. Meanwhile, Sol goes to Sun-jae’s concert to meet him.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/ikh7FgW1yFamBdJDlcSNZAJklvb.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E07.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 8,
+            "name": "How About Now?",
+            "info": {
+              "plot": "Sol and Sun-jae meet at the Hangang Bridge as they promised. Sol is worried that something might happen to Sun-jae if she lets him go. She insists they spend the night together, and the two end up going to Sun-jae’s place. They finally realized how they felt about each other after all those years. However, an unexpected accident happens, making Sol flustered again.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/fRAV6uFPCtp2GkfGL0hRSR6SklL.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E08.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 9,
+            "name": "Sol Goes Back Again",
+            "info": {
+              "plot": "Sun-jae is attacked again, and he’s in a critical condition. Police disclose information on the culprit, and Sol notices that the timeline has changed again. She manages to find a way to get back to the past, and this time, she goes to the same college with Sun-jae. Sol wants to keep distance from Sun-jae, but they keep run into each other. Meanwhile, Sun-jae gets a chance to get a rehabilitation training in the US.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/fMrTM12zvbNqT3YHxVAPG6U7Kn0.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E09.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 10,
+            "name": "I Figured It All Out",
+            "info": {
+              "plot": "Sun-jae tells Sol he will leave for the US for the rehabilitation training. Sol is relieved to hear the news as he’ll be safe in the US, but she feels sad at the same time. In-hyuk asks Sun-jae to join his band and go to the audition together. Tae-sung finds out about Sol’s kidnapping case and he comes to see her. Meanwhile, Sun-jae goes to the airport to leave for the US.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/qfCACqxoFmwpxCLCJPNXqFJv91T.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely_Runner.2024.S01E10.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 11,
+            "name": "Become a Couple",
+            "info": {
+              "plot": "Sol and Sun-jae decide to be honest with their feelings and enjoy every moment together until Sol goes back to the future. Their parents find out that they are dating, and a small mistake leads to a big misunderstanding. Kim Young-soo is arrested by the police, and Sol feels relieved. Meanwhile, In-hyuk's band is performing for the last time, and tries to help him.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/RC86l1I18TsjTOK8WPZ8EtRz.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely.Runner.2024.S01E11.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 12,
+            "name": "Go On a Trip",
+            "info": {
+              "plot": "Kim Young-soo escapes, and Sun-ae wants to protect Sol and make her feel relieved. They run into Geum and Hyun-joo and find out about their relationship. In-hyuk goes back to his home in the countryside as he quits the band. Sun-jae, Sol, and Tae-sung go to In-hyuk’s place to tell him that Eclipse might have a chance to debut. Meanwhile, Sol notices that the future has changed.",
+              "backdrop": "https://media.themoviedb.org/t/p/w500_and_h282_face/9s79GatdG0NUF6UUHcm6epPM0dJ.jpg"
+            },
+            "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Lovely.Runner.2024.S01E12.1080p.VIU.WEB-DL.AAC.H.264-CHIOS.mp4"
+          },
+          {
+            "episode": 13,
+            "name": "Live Another Day",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 14,
+            "name": "Live Another Day",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 15,
+            "name": "Live Another Day",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          },
+          {
+            "episode": 16,
+            "name": "Live Another Day",
+            "info": {
+              "plot": "",
+              "backdrop": ""
+            },
+            "video": ""
+          }
+        ]
+      }
+    ]
+  }
 ]
