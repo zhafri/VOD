@@ -174,7 +174,7 @@
                         "episode": 1,
                         "name": "Are You Happy in Your Life?",
                         "info": {
-                            "plot": ""
+                            "plot": "Physics professor and family man Jason Dessen is abducted from everything he loves."
                         },
                         "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E01_Are_You_Happy_in_Your_Life_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
                     },
@@ -193,7 +193,55 @@
                             "plot": "Leighton and Amanda show Jason his groundbreaking invention. Daniela and Jason2 throw a dinner party."
                         },
                         "video": "https://my.real-debrid.com/N475CBK2C3G5O/links/Dark_Matter_2024_S01E03_The_Box_1080p_ATVP_WEB-DL_DDP5_1_Atmos_H_264-FLUX.mkv"
-                    }
+                    },
+                    {
+                        "episode": 4,
+                        "name": "The Corridor",
+                        "info": {
+                            "plot": "Jason and Amanda fight to stay alive in the dangerous Corridor. Jason2 makes some life changes and visits an old friend."
+                        },
+                        "video": ""
+                    },
+                    {
+                        "episode": 5,
+                        "name": "Worldless",
+                        "info": {
+                            "plot": ""
+                        },
+                        "video": ""
+                    },
+                     {
+                        "episode": 6,
+                        "name": "Superposition",
+                        "info": {
+                            "plot": ""
+                        },
+                        "video": ""
+                    },
+                     {
+                        "episode": 7,
+                       "name": "In the Fires of Dead Stars",
+                        "info": {
+                            "plot": ""
+                        },
+                        "video": ""
+                    },
+                     {
+                        "episode": 8,
+                        "name": "Jupiter",
+                        "info": {
+                            "plot": ""
+                        },
+                        "video": ""
+                    },
+                     {
+                        "episode": 9,
+                        "name": "Entanglement",
+                        "info": {
+                            "plot": ""
+                        },
+                        "video": ""
+                    },
                 ]
             }
         ]
