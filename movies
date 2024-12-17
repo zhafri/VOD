@@ -1668,21 +1668,5 @@
 		"drmkey" : "ed1bb550611ce4c836f288d01f5adb10:416f604d81a5b82e689562f060cce475",
 		"video" : "https:///vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/77f7691e-003c-5727-8607-53b4c6034303/default_primary.mpd"
 	},
-	{
-		"name" : "",
-		"category" : "",
-		"info" : {
-			"poster" : "",
-			"bg" : "",
-			"plot" : "",
-			"cast" : [ "", "", "", "", "", "", "" ],
-			"director" : [ "" ],
-			"country" : [ "" ],
-			"year" : "",
-			"trailer" : ""
-		},
-		"drm" : "clearkey",
-		"drmkey" : "",
-		"video" : ""
-	}
+	
 ]
